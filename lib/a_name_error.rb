@@ -1,3 +1,5 @@
 "hello world"
 
-hello_world
+function helloWorld() {
+  puts "hello world"
+}
