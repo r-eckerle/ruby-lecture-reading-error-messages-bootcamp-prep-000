@@ -1,5 +1,3 @@
 "hello world"
 
-function helloWorld(String) {
-  puts string;
-}
+var hello_world = "Hello World"
