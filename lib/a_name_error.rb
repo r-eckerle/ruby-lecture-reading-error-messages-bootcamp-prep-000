@@ -1,5 +1,5 @@
 "hello world"
 
-function helloWorld(String)) {
+function helloWorld(String) {
   puts string;
 }
